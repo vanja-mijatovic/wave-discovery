@@ -14,7 +14,7 @@
 	<name>WaveDiscovery</name>
 	<description>WaveDiscovery - Streamline your microservices discovery process with Eureka</description>
 	<properties>
-		<java.version>17</java.version>
+		<java.version>20</java.version>
 		<spring-cloud.version>2022.0.2</spring-cloud.version>
 	</properties>
 	<dependencies>
